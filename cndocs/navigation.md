@@ -26,7 +26,7 @@ title: 使用导航器跳转页面
 ```javascript
 <NavigatorIOS
   initialRoute={{
-    component: MyScene,
+    component: MySceen,
     title: "My Initial Scene",
     passProps: { myProp: "foo" }
   }}
